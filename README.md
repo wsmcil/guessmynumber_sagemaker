@@ -1,2 +1,2 @@
-# guessmynumber_sagemaker
-Jupyter notebooks for training guessmynumber algorithms
+# guessmynumber
+Guess my number demo ipynb and app code
